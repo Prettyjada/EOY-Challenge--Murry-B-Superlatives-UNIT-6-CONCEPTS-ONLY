@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+    
+}
+
+.goodbye-note {
+    border: 2px solid #000;
+    border-radius: 30px;
+    padding: 10px;
+    background-color:deeppink;
+    font-size:40px;
+    font-family: 'Abril Fatface', cursive;
+    display:none;
+}
+
+.directions-container {
+    border: 2px solid #000;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 5px;
+    background-color:deeppink;
+font-family: 'Abril Fatface', cursive;
+    font-size:16px;
+}
+
+.notes-ticker {
+    display: flex;
+    justify-content: flex-end;
+}
+
+body{
+    background-image: url("https://media.istockphoto.com/photos/pink-lipstick-kisses-picture-id598074144?k=20&m=598074144&s=612x612&w=0&h=7txmmc-j8O05_MZgU-Y7hPhXgNHFp9FXCK99w6ksDrg=");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+h2{
+    font-family: 'Shizuru', cursive;
+}
+
+button{
+    font-family: 'Akaya Telivigala', cursive;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    font-size:18px;
+}
